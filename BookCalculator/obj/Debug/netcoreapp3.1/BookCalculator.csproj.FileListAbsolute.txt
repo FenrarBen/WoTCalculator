@@ -1,0 +1,13 @@
+C:\Users\Fenrar Muad'dib\Desktop\repos\BookCalculator\BookCalculator\bin\Debug\netcoreapp3.1\BookCalculator.exe
+C:\Users\Fenrar Muad'dib\Desktop\repos\BookCalculator\BookCalculator\bin\Debug\netcoreapp3.1\BookCalculator.deps.json
+C:\Users\Fenrar Muad'dib\Desktop\repos\BookCalculator\BookCalculator\bin\Debug\netcoreapp3.1\BookCalculator.runtimeconfig.json
+C:\Users\Fenrar Muad'dib\Desktop\repos\BookCalculator\BookCalculator\bin\Debug\netcoreapp3.1\BookCalculator.runtimeconfig.dev.json
+C:\Users\Fenrar Muad'dib\Desktop\repos\BookCalculator\BookCalculator\bin\Debug\netcoreapp3.1\BookCalculator.dll
+C:\Users\Fenrar Muad'dib\Desktop\repos\BookCalculator\BookCalculator\bin\Debug\netcoreapp3.1\BookCalculator.pdb
+C:\Users\Fenrar Muad'dib\Desktop\repos\BookCalculator\BookCalculator\obj\Debug\netcoreapp3.1\BookCalculator.csprojAssemblyReference.cache
+C:\Users\Fenrar Muad'dib\Desktop\repos\BookCalculator\BookCalculator\obj\Debug\netcoreapp3.1\BookCalculator.AssemblyInfoInputs.cache
+C:\Users\Fenrar Muad'dib\Desktop\repos\BookCalculator\BookCalculator\obj\Debug\netcoreapp3.1\BookCalculator.AssemblyInfo.cs
+C:\Users\Fenrar Muad'dib\Desktop\repos\BookCalculator\BookCalculator\obj\Debug\netcoreapp3.1\BookCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Fenrar Muad'dib\Desktop\repos\BookCalculator\BookCalculator\obj\Debug\netcoreapp3.1\BookCalculator.dll
+C:\Users\Fenrar Muad'dib\Desktop\repos\BookCalculator\BookCalculator\obj\Debug\netcoreapp3.1\BookCalculator.pdb
+C:\Users\Fenrar Muad'dib\Desktop\repos\BookCalculator\BookCalculator\obj\Debug\netcoreapp3.1\BookCalculator.genruntimeconfig.cache
